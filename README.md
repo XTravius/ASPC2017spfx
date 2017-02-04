@@ -1,6 +1,18 @@
 ## aspc-2017
 
-This is where you include your web part docs.
+Created by InfoAgents@ASPC2017
+
+Introduction
+This project is a SharePoint Framework project - with two apps for Mordern SharePoint pages:
+- Customer and Products app 
+- News app
+
+Customer and Products app
+Connects to customers and products in Dynamics 365, list them and able for accessing underlaying information via Office Groups.
+
+News app
+Fetches news from exrternal api's and renders them.
+
 
 ### Building the code
 
