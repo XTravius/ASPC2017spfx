@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "aspc-2017",
+    "libraryId": "9ccb284e-0358-43c2-83b5-76897d8513fb",
+    "framework": "react"
+  }
+}

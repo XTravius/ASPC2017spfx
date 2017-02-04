@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "aspc-2017-client-side-solution",
+    "id": "9ccb284e-0358-43c2-83b5-76897d8513fb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/aspc-2017.sppkg"
+  }
+}

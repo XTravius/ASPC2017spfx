@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/medicalNews/MedicalNewsWebPart.js",
+      "manifest": "./src/webparts/medicalNews/MedicalNewsWebPart.manifest.json",
+      "outputPath": "./dist/medical-news.bundle.js"
+    },
+    {
+      "entry": "./lib/webparts/customersProducts/CustomersProductsWebPart.js",
+      "manifest": "./src/webparts/customersProducts/CustomersProductsWebPart.manifest.json",
+      "outputPath": "./dist/customers-products.bundle.js"
+    }
+  ],
+  "externals": {
+    "jquery":"node_modules/jquery/dist/jquery.min.js"
+  },
+  "localizedResources": {
+    "medicalNewsStrings": "webparts/medicalNews/loc/{locale}.js",
+    "customersProductsStrings": "webparts/customersProducts/loc/{locale}.js"
+  }
+}
